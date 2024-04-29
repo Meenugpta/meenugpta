@@ -7,13 +7,10 @@
 </p>
 
 
-## 👋&nbsp; Hi there, I'm Vladimir Lukyanov
+## 👋&nbsp; Hi there, I'm Meenu
 
 ∧＿∧<br />
 ｡･ω･｡)つ━☆・*。
-
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/liikyanov?style=social)](https://twitter.com/liikyanov) &nbsp;
-[![GitHub Thaiane](https://img.shields.io/github/followers/vladimirlukyanov?label=follow&style=social)](https://github.com/liikyanov)
 
 - ✨&nbsp; Innovative, creative and a proven team player
 - 💻&nbsp; Have 10+ years building developing and managing websites
@@ -32,9 +29,6 @@
   <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/detective.gif?raw=true" alt="hello" width="15%">
 </p>
 
-## ✨&nbsp; Connect with me:
-[ [nulllab.net](https://nulllab.net) ] – [ [youtube](https://www.youtube.com/channel/UCplOorzqj4lqljTh77CID_w) ] – [ [twitter](https://twitter.com/liikyanov) ] – [ [instagram](https://instagram.com/liikyanov) ]
-
 ```diff
 ·͙*̩̩͙˚̩̥̩̥*̩̩̥͙·̩̩̥͙☆*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙[⸍̣⸌•ﻌ•⸍⸌]ꈤꌩꍏꈤꉓꍏ꓄ﾉ彡*:･ﾟ⋄✧☆·͙*̩̩͙˚̩̥̩̥☆*̩̩̥͙·̩̩̥͙*̩̩̥͙˚̩̥̩̥*̩̩͙‧͙
 ```
@@ -44,11 +38,6 @@
 <p align="left">
   <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/coffee.gif?raw=true" alt="hello" width="15%">
 </p>
-
-## 📺&nbsp; Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [SpeedRun frontend coding | UltraTendency coding test](https://www.youtube.com/watch?v=rcj9HwMnsus)
-<!-- YOUTUBE:END -->
 
 <p align="left">
   <img src="https://github.com/vladimirlukyanov/vladimirlukyanov/blob/master/.imgs/hello.gif?raw=true" alt="hello" width="35%">
